@@ -11,7 +11,7 @@ This project is developed as a **group graphics project** by:
 
 | Name |
 |------|
-| **Neloy** *(Fardin Neloy)* |
+| **Neloy** *(Md. Fardin Hossain Neloy)* |
 | **Mowmita** |
 | **Hazary** |
 | **Protiom** |
